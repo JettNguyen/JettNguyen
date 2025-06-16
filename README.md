@@ -2,7 +2,7 @@
 ## Computer Science Student at the University of Florida 2026 🐊 | Software Engineer Intern at MARA Summer 2025 ⌨️
 
 ### About Me 📝
-📍 Gainesville, FL<br>
+📍 Gainesville, FL / Saint Petersburg, FL<br>
 💻 CS Major (Herbert Wertheim College of Engineering)<br>
 📢 PR Minor (College of Journalism and Communications)<br>
 🎹 Music Producer (Rap, R&B, Electronic, Indie, & more)<br>
