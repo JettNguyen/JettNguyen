@@ -21,5 +21,5 @@
 ### Connect With Me 📲
 💼 **[LinkedIn](https://www.linkedin.com/in/jett-nguyen/)**
 📱 **[Instagram](https://www.instagram.com/7jettster7/)**
-🔗 **[Jett2Fly.com](jett2fly.com)**
+🔗 **[Jett2Fly.com](https://jett2fly.com/)**
 
