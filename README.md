@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jett Nguyen
+## Computer Science Student at the University of Florida 2026 🐊 | Software Engineer Intern at MARA Summer 2025 ⌨️
 
-<!--
-**JettNguyen/JettNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Gainesville, FL
+💻 CS Major (Herbert Wertheim College of Engineering)
+📢 PR Minor (College of Journalism and Communications)
+🎹 Music Producer (Rap, R&B, Electronic, Indie, & more)
+🛍️ eCommerce Seller (Vintage Clothing & Collectibles)
 
-Here are some ideas to get you started:
+I am a problem-solver at heart, so I chose to combine this skill with a passion in computers. In my studies, I have worked with JavaScript, Python, and C++, looking to learn more. Frontend development is where I specialize and can intertwine creativity and software engineering. Follow along with me in my journey of learning!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Projects ⏳
+1. **Jett2Fly.com 🔗** 
+   - An HTML website that showcases my music production discography credits and recent activity
+2. **GatorFound 🔎**
+   - A MERN Stack application that serves as a crowdsourced Lost & Found service for University of Florida Staff and Students
+3. **Gridiron Guru 🏈**
+   - A C++ program to statistically predict the best play in an American football game based on historical data
+
+### Connect With Me 📲
+💼 **[LinkedIn](https://www.linkedin.com/in/jett-nguyen/)**
+📱 **[Instagram](https://www.instagram.com/7jettster7/)**
+🔗 **[Jett2Fly.com](jett2fly.com)**
+
