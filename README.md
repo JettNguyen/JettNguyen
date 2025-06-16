@@ -12,9 +12,11 @@
 
 ### Recent Projects ⏳
 🔗 **[Jett2Fly.com](https://github.com/JettNguyen/Jett2Fly)**
-   - An HTML website that showcases my music production discography credits and recent activity<br>
+   - An HTML website that showcases my music production discography credits and recent activity
+   
 🔎 **[GatorFound](https://github.com/JettNguyen/GatorFound)**
-   - A MERN Stack application that serves as a crowdsourced Lost & Found service for University of Florida Staff and Students<br>
+   - A MERN Stack application that serves as a crowdsourced Lost & Found service for University of Florida Staff and Students
+   
 🏈 **[Gridiron Guru](https://github.com/JettNguyen/GridironGuru)**
    - A C++ program to statistically predict the best play in an American football game based on historical data
 
