@@ -1,5 +1,5 @@
 # Jett Nguyen
-## Computer Science Student at the University of Florida 2026 🐊 | Software Engineer Intern at MARA Summer 2025 ⌨️
+## Computer Science Student at the University of Florida 2026 🐊 | Software Engineer Intern at MARA Summer/Fall 2025 ⌨️
 
 ### About Me 📝
 📍 Gainesville, FL / Saint Petersburg, FL<br>
