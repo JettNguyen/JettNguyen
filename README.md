@@ -4,9 +4,9 @@
 <div align="center">
   <img src="./assets/avatar.png" width="135" alt="avatar" style="display: inline-block; margin-right: 20px;"/>
   <div style="display: inline-block; vertical-align: middle; text-align: left;">
-    <a href="https://jettnguyen.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/-jettnguyen.github.io-000000?logo=github&logoColor=white&style=for-the-badge"/></a><br/>
+    <a href="https://jettnguyen.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/-jettnguyen.github.io-000000?logo=github&logoColor=white&style=for-the-badge"/></a>
     <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a><br/>
-    <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a><br/>
+    <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
     <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   </div>
 </div>
@@ -26,6 +26,7 @@
 
 <div>
   <div style="display: inline-block; width: 45%; vertical-align: top; margin-right: 5%;">
+    <strong>Quick Facts:</strong>
     <ul>
       <li>📍 Gainesville, FL / Saint Petersburg, FL</li>
       <li>💻 CS Major (Herbert Wertheim College of Engineering)</li>
@@ -69,28 +70,30 @@
 
 ### Recent Projects ⏳
 
-<div>
-  <div style="display: inline-block; width: 23%; vertical-align: top; margin-right: 2%; margin-bottom: 20px;">
-    <strong><a href="https://github.com/JettNguyen/Jett2Fly">🔗 Jett2Fly.com</a></strong>
-    <br/><br/>
-    An HTML website that showcases my music production discography credits and recent activity
-  </div>
-  <div style="display: inline-block; width: 23%; vertical-align: top; margin-right: 2%; margin-bottom: 20px;">
-    <strong><a href="https://github.com/JettNguyen/GatorFound">🔎 GatorFound</a></strong>
-    <br/><br/>
-    A MERN Stack application that serves as a crowdsourced Lost & Found service for University of Florida Staff and Students
-  </div>
-  <div style="display: inline-block; width: 23%; vertical-align: top; margin-right: 2%; margin-bottom: 20px;">
-    <strong><a href="https://github.com/JettNguyen/GridironGuru">🏈 Gridiron Guru</a></strong>
-    <br/><br/>
-    A C++ program to statistically predict the best play in an American football game based on historical data
-  </div>
-  <div style="display: inline-block; width: 23%; vertical-align: top; margin-bottom: 20px;">
-    <strong><a href="https://github.com/JettNguyen/Splitsy">💰 Splitsy</a></strong>
-    <br/><br/>
-    A bill splitting application that helps groups of friends easily divide expenses and track who owes what
-  </div>
-</div>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+<strong><a href="https://github.com/JettNguyen/Jett2Fly">🔗 Jett2Fly.com</a></strong>
+<br/>
+<small>An HTML website that showcases my music production discography credits and recent activity</small>
+</td>
+<td width="25%" align="center" valign="top">
+<strong><a href="https://github.com/JettNguyen/GatorFound">🔎 GatorFound</a></strong>
+<br/>
+<small>A MERN Stack application that serves as a crowdsourced Lost & Found service for University of Florida Staff and Students</small>
+</td>
+<td width="25%" align="center" valign="top">
+<strong><a href="https://github.com/JettNguyen/GridironGuru">🏈 Gridiron Guru</a></strong>
+<br/>
+<small>A C++ program to statistically predict the best play in an American football game based on historical data</small>
+</td>
+<td width="25%" align="center" valign="top">
+<strong><a href="https://github.com/JettNguyen/Splitsy">💰 Splitsy</a></strong>
+<br/>
+<small>A bill splitting application that helps people easily divide expenses and track who owes what</small>
+</td>
+</tr>
+</table>
 
 ### Connect With Me 📲
 💼 **[LinkedIn](https://www.linkedin.com/in/jett-nguyen/)**
