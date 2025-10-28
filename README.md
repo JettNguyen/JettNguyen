@@ -1,54 +1,57 @@
 # Jett Nguyen
-## Computer Science Student at the University of Florida 2026 🐊 | Software Engineer Intern at MARA Summer/Fall 2025 ⌨️
+## Computer Science Student at the University of Florida 2026 🐊 <br> Software Engineer Intern at MARA Summer/Fall 2025 ⌨️
 
-<div align="center">
-<table>
-   <tr>
-      <td align="center" style="vertical-align:middle;padding:15px;">
-         <img src="./assets/avatar.png" width="150" alt="avatar" style="border-radius:50%;" />
-      </td>
-      <td align="left" style="vertical-align:middle;padding:15px;">
-         <a href="https://jettnguyen.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/-jettnguyen.github.io-000000?logo=github&logoColor=white&style=for-the-badge"/></a><br/>
-         <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a><br/>
-         <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a><br/>
-         <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-      </td>
-   </tr>
-</table>
+<div style="display:flex;flex-direction:column;align-items:center;gap:5px;">
+   <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+      <div style="flex:0 0 auto;text-align:center;padding:5px;">
+         <img src="./assets/avatar.png" width="135" alt="avatar"/>
+      </div>
+    <div style="display:flex;flex-direction:column;gap:1px;align-items:flex-start;padding:5px;">
+      <div>
+        <a href="https://jettnguyen.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/-jettnguyen.github.io-000000?logo=github&logoColor=white&style=for-the-badge"/></a>
+      </div>
+      <div>
+        <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
+      </div>
+      <div>
+        <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+      </div>
+      <div>
+        <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+      </div>
+    </div>
+   </div>
+
+  <div style="display:flex;gap:5px;justify-content:center;flex-wrap:nowrap;overflow-x:auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="250" style="flex:0 0 auto;height:auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="250" style="flex:0 0 auto;height:auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="250" style="flex:0 0 auto;height:auto;" />
+  </div>
+
+   <div style="text-align:center;">
+      <a href="https://github.com/JettNguyen?tab=repositories"><img alt="Pinned repos" src="https://img.shields.io/badge/-Pinned%20repos-222?style=plastic"/></a>
+      <a href="https://github.com/JettNguyen"><img alt="Followers" src="https://img.shields.io/github/followers/JettNguyen?label=Followers&style=social"/></a>
+   </div>
 </div>
-
-<div align="center">
-<table>
-   <tr>
-      <td align="center" style="padding:10px;">
-         <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="300" />
-      </td>
-      <td align="center" style="padding:10px;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="300" />
-      </td>
-      <td align="center" style="padding:10px;">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="300" />
-      </td>
-   </tr>
-</table>
-</div>
-
-<div align="center">
-<p>
-   <a href="https://github.com/JettNguyen?tab=repositories"><img alt="Pinned repos" src="https://img.shields.io/badge/-Pinned%20repos-222?style=plastic"/></a>
-   <a href="https://github.com/JettNguyen"><img alt="Followers" src="https://img.shields.io/github/followers/JettNguyen?label=Followers&style=social"/></a>
-</p>
-</div>
-
 
 ### About Me 📝
-📍 Gainesville, FL / Saint Petersburg, FL<br>
-💻 CS Major (Herbert Wertheim College of Engineering)<br>
-📢 PR Minor (College of Journalism and Communications)<br>
-🎹 Music Producer (Rap, R&B, Electronic, Indie, & more)<br>
-🛍️ eCommerce Seller (Vintage Clothing & Collectibles)<br>
 
-*I am a problem-solver at heart, so I chose to combine this skill with a passion in computers. In my studies, I have worked with JavaScript, Python, and C++, looking to learn more. Frontend development is where I specialize and can intertwine creativity and software engineering. Follow along with me in my journey of learning!*
+<div style="display:flex;gap:10px;align-items:flex-start;flex-wrap:nowrap;overflow-x:auto;">
+  <div style="flex:0 0 400px;max-width:400px;">
+    <div style="background:#0d1117;color:#c9d1d9;padding:10px;border-radius:10px;text-align:left;">
+      <p style="margin:5px 0;">📍 Gainesville, FL / Saint Petersburg, FL</p>
+      <p style="margin:5px 0;">💻 CS Major (Herbert Wertheim College of Engineering)</p>
+      <p style="margin:5px 0;">📢 PR Minor (College of Journalism and Communications)</p>
+      <p style="margin:5px 0;">🎹 Music Producer (Rap, R&B, Electronic, Indie, & more)</p>
+      <p style="margin:5px 0;">🛍️ eCommerce Seller (Vintage Clothing & Collectibles)</p>
+    </div>
+  </div>
+  <div style="flex:1;max-width:400px;">
+    <div style="padding:10px;background:transparent;">
+      <p style="margin:0 0 5px 0;font-style:italic;">I am a problem-solver at heart, so I chose to combine this skill with a passion in computers. In my studies, I have worked with JavaScript, Python, and C++, looking to learn more. Frontend development is where I specialize and can intertwine creativity and software engineering. Follow along with me in my journey of learning!</p>
+    </div>
+  </div>
+</div>
 
 ### Skills 🛠️
 <div style="background:#0d1117;color:#c9d1d9;padding:5px;padding-bottom:0px;border-radius:10px;">
@@ -81,14 +84,27 @@
 </div>
 
 ### Recent Projects ⏳
-🔗 **[Jett2Fly.com](https://github.com/JettNguyen/Jett2Fly)**
-   - An HTML website that showcases my music production discography credits and recent activity
-   
-🔎 **[GatorFound](https://github.com/JettNguyen/GatorFound)**
-   - A MERN Stack application that serves as a crowdsourced Lost & Found service for University of Florida Staff and Students
-   
-🏈 **[Gridiron Guru](https://github.com/JettNguyen/GridironGuru)**
-   - A C++ program to statistically predict the best play in an American football game based on historical data
+
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
+  <div style="flex:1;min-width:220px;">
+    <div style="background:#0d1117;color:#c9d1d9;padding:10px;border-radius:10px;">
+      <h4 style="margin:0 0 5px 0;"><a href="https://github.com/JettNguyen/Jett2Fly" style="color:#58a6ff;text-decoration:none;">🔗 Jett2Fly.com</a></h4>
+      <p style="margin:0;">An HTML website that showcases my music production discography credits and recent activity</p>
+    </div>
+  </div>
+  <div style="flex:1;min-width:220px;">
+    <div style="background:#0d1117;color:#c9d1d9;padding:10px;border-radius:10px;">
+      <h4 style="margin:0 0 5px 0;"><a href="https://github.com/JettNguyen/GatorFound" style="color:#58a6ff;text-decoration:none;">🔎 GatorFound</a></h4>
+      <p style="margin:0;">A MERN Stack application that serves as a crowdsourced Lost & Found service for University of Florida Staff and Students</p>
+    </div>
+  </div>
+  <div style="flex:1;min-width:220px;">
+    <div style="background:#0d1117;color:#c9d1d9;padding:10px;border-radius:10px;">
+      <h4 style="margin:0 0 5px 0;"><a href="https://github.com/JettNguyen/GridironGuru" style="color:#58a6ff;text-decoration:none;">🏈 Gridiron Guru</a></h4>
+      <p style="margin:0;">A C++ program to statistically predict the best play in an American football game based on historical data</p>
+    </div>
+  </div>
+</div>
 
 ### Connect With Me 📲
 💼 **[LinkedIn](https://www.linkedin.com/in/jett-nguyen/)**
