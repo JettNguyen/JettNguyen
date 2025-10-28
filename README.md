@@ -1,38 +1,40 @@
 # Jett Nguyen
 ## Computer Science Student at the University of Florida 2026 🐊 | Software Engineer Intern at MARA Summer/Fall 2025 ⌨️
 
+<div align="center">
 <table>
    <tr>
-            <td width="36%" style="vertical-align:middle;text-align:center;background-image:url('./assets/background.gif');background-size:cover;background-position:center;padding:10px;">
-                     <p style="text-align:center;margin:10px 0;">
-                        <img src="./assets/avatar.png" width="200" alt="avatar" />
-                     </p>
-            <p style="text-align:center;margin-top:5px;">
-                   <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-                   <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-                   <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
-               </p>
+      <td width="36%" align="center" style="vertical-align:middle;padding:20px;background-image:url('./assets/background.gif');background-size:cover;background-position:center;background-repeat:no-repeat;">
+         <p align="center">
+            <img src="./assets/avatar.png" width="120" alt="avatar" style="border-radius:50%;border:3px solid white;box-shadow:0 4px 8px rgba(0,0,0,0.3);" />
+         </p>
+         <p align="center" style="margin-top:10px;">
+            <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+            <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+            <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
+         </p>
       </td>
-      <td width="64%" style="vertical-align:top;">
-            <p>
-               <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="460" />
-            </p>
-            <p>
-               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="460" />
-            </p>
-            <p>
-               <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="460" />
-            </p>
-            <p>
-               <img src="https://ghchart.rshah.org/JettNguyen.svg?bg=0d1117&color=ffffff" alt="Contributions graph" width="460" />
-            </p>
-            <p>
-               <a href="https://github.com/JettNguyen?tab=repositories"><img alt="Pinned repos" src="https://img.shields.io/badge/-Pinned%20repos-222?style=plastic"/></a>
-               <a href="https://github.com/JettNguyen"><img alt="Followers" src="https://img.shields.io/github/followers/JettNguyen?label=Followers&style=social"/></a>
-            </p>
+      <td width="64%" align="center" style="vertical-align:top;padding:10px;">
+         <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="460" />
+         </p>
+         <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="460" />
+         </p>
+         <p align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="460" />
+         </p>
+         <p align="center">
+            <img src="https://ghchart.rshah.org/JettNguyen.svg?bg=0d1117&color=ffffff" alt="Contributions graph" width="460" />
+         </p>
+         <p align="center">
+            <a href="https://github.com/JettNguyen?tab=repositories"><img alt="Pinned repos" src="https://img.shields.io/badge/-Pinned%20repos-222?style=plastic"/></a>
+            <a href="https://github.com/JettNguyen"><img alt="Followers" src="https://img.shields.io/github/followers/JettNguyen?label=Followers&style=social"/></a>
+         </p>
       </td>
    </tr>
 </table>
+</div>
 
 
 ### About Me 📝
