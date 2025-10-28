@@ -3,29 +3,33 @@
 
 <table>
    <tr>
-      <td width="36%" style="vertical-align:center;horizontal-align:center;text-align:center;">
-         <img src="https://github.com/JettNguyen.png" width="200" style="border-radius:50%" alt="avatar" />
-         <p>
-            <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-            <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-            <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
-         </p>
+            <td width="36%" style="vertical-align:middle;text-align:center;background-image:url('https://upload-assets.vice.com/files/2016/12/13/1481669232Asteroid_Belt.gif');background-size:cover;background-position:center;padding:18px;">
+                  <p align="center" style="margin-top:6px;margin-bottom:6px;">
+                     <img src="https://github.com/JettNguyen.png" width="120" alt="avatar" style="border-radius:50%;box-shadow:0 4px 14px rgba(2,6,23,0.6);" />
+                  </p>
+               <p align="center" style="margin-top:6px;">
+                   <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+                   <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+                   <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
+               </p>
       </td>
       <td width="64%" style="vertical-align:top;">
-         <div style="background:#0d1117;color:#c9d1d9;padding:5px;border-radius:20px;">
-            <p style="text-align:left;margin:0;">
-               <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" style="float:right;max-width:460px;width:460px;border-radius:20px;" />
-               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" style="max-width:460px;width:460px;border-radius:20px;" />
-               <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" style="display:block;max-width:460px;width:460px;border-radius:20px;" />
-               <div style="background:#0d1117;padding-top:8px;display:block;">
-                  <img src="https://ghchart.rshah.org/JettNguyen" alt="Contributions graph" style="display:block;max-width:460px;width:460px;filter:invert(1);border-radius:20px;" />
-               </div>
+            <p>
+               <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="460" />
             </p>
-            <p style="margin-top:8px">
+            <p>
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="460" />
+            </p>
+            <p>
+               <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="460" />
+            </p>
+            <p>
+               <img src="https://ghchart.rshah.org/JettNguyen.svg?bg=0d1117&color=ffffff" alt="Contributions graph" width="460" />
+            </p>
+            <p>
                <a href="https://github.com/JettNguyen?tab=repositories"><img alt="Pinned repos" src="https://img.shields.io/badge/-Pinned%20repos-222?style=plastic"/></a>
                <a href="https://github.com/JettNguyen"><img alt="Followers" src="https://img.shields.io/github/followers/JettNguyen?label=Followers&style=social"/></a>
             </p>
-         </div>
       </td>
    </tr>
 </table>
