@@ -3,11 +3,11 @@
 
 <table>
    <tr>
-            <td width="36%" style="vertical-align:middle;text-align:center;background-image:url('https://upload-assets.vice.com/files/2016/12/13/1481669232Asteroid_Belt.gif');background-size:cover;background-position:center;padding:18px;">
-                  <p align="center" style="margin-top:6px;margin-bottom:6px;">
-                     <img src="https://github.com/JettNguyen.png" width="120" alt="avatar" style="border-radius:50%;box-shadow:0 4px 14px rgba(2,6,23,0.6);" />
-                  </p>
-               <p align="center" style="margin-top:6px;">
+            <td width="36%" style="vertical-align:middle;text-align:center;background-image:url('./assets/background.gif');background-size:cover;background-position:center;padding:10px;">
+                     <p style="text-align:center;margin:10px 0;">
+                        <img src="./assets/avatar.png" width="200" alt="avatar" />
+                     </p>
+            <p style="text-align:center;margin-top:5px;">
                    <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
                    <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
                    <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
