@@ -4,13 +4,11 @@
 <div align="center">
 <table>
    <tr>
-      <td width="36%" align="center" style="vertical-align:middle;padding:0;position:relative;">
-         <div align="center" style="position:relative;">
-            ![background](./assets/background.gif)
-            <br/>
-            <img src="./assets/avatar.png" width="120" alt="avatar" style="border-radius:50%;margin-top:-60px;position:relative;z-index:1;" />
-         </div>
-         <p align="center" style="margin-top:10px;">
+      <td width="36%" align="center" style="vertical-align:middle;padding:20px;">
+         <p align="center">
+            <img src="./assets/avatar.png" width="200" alt="avatar" style="border-radius:50%;" />
+         </p>
+         <p align="center" style="margin-top:15px;">
             <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
             <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
             <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
