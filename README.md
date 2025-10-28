@@ -3,7 +3,7 @@
 
 <table>
    <tr>
-      <td width="36%" style="vertical-align:center;text-align:center;">
+      <td width="36%" style="vertical-align:center;horizontal-align:center;text-align:center;">
          <img src="https://github.com/JettNguyen.png" width="200" style="border-radius:50%" alt="avatar" />
          <p>
             <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
@@ -14,11 +14,11 @@
       <td width="64%" style="vertical-align:top;">
          <div style="background:#0d1117;color:#c9d1d9;padding:5px;border-radius:20px;">
             <p style="text-align:left;margin:0;">
-               <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" style="float:right;max-width:460px;width:460px;" />
-               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" style="max-width:460px;width:460px;" />
-               <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" style="display:block;max-width:460px;width:460px;" />
+               <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" style="float:right;max-width:460px;width:460px;border-radius:20px;" />
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" style="max-width:460px;width:460px;border-radius:20px;" />
+               <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" style="display:block;max-width:460px;width:460px;border-radius:20px;" />
                <div style="background:#0d1117;padding-top:8px;display:block;">
-                  <img src="https://ghchart.rshah.org/JettNguyen" alt="Contributions graph" style="display:block;max-width:460px;width:460px;filter:invert(1);" />
+                  <img src="https://ghchart.rshah.org/JettNguyen" alt="Contributions graph" style="display:block;max-width:460px;width:460px;filter:invert(1);border-radius:20px;" />
                </div>
             </p>
             <p style="margin-top:8px">
