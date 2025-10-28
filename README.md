@@ -4,10 +4,12 @@
 <div align="center">
 <table>
    <tr>
-      <td width="36%" align="center" style="vertical-align:middle;padding:20px;background-image:url('./assets/background.gif');background-size:cover;background-position:center;background-repeat:no-repeat;">
-         <p align="center">
-            <img src="./assets/avatar.png" width="120" alt="avatar" style="border-radius:50%;border:3px solid white;box-shadow:0 4px 8px rgba(0,0,0,0.3);" />
-         </p>
+      <td width="36%" align="center" style="vertical-align:middle;padding:0;position:relative;">
+         <div align="center" style="position:relative;">
+            ![background](./assets/background.gif)
+            <br/>
+            <img src="./assets/avatar.png" width="120" alt="avatar" style="border-radius:50%;margin-top:-60px;position:relative;z-index:1;" />
+         </div>
          <p align="center" style="margin-top:10px;">
             <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
             <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
