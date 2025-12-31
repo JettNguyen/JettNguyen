@@ -36,7 +36,7 @@
     </ul>
   </div>
   <div style="display: inline-block; width: 45%; vertical-align: top;">
-    <em>I am a problem-solver at heart, so I chose to combine this skill with a passion in computers. In my studies, I have worked with JavaScript, Python, and C++, looking to learn more. Frontend development is where I specialize and can intertwine creativity and software engineering. Follow along with me in my journey of learning!</em>
+    <em>I am a problem-solver and creative at heart, so I chose to combine these skills with a passion for computers. In my studies and previous work experiences, I have worked with JavaScript, TypeScript, Python, C++, and more, with a drive to learn much more. Frontend development is where I specialize and am able to intertwine creativity and software engineering. Follow along with me in my journey of learning!</em>
   </div>
 </div>
 
