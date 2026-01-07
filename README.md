@@ -94,9 +94,9 @@
 <small>A web social media app that allows users to share their dreams with others and get analysis from AI</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://jett2fly.com">🔗<br>Jett2Fly.com</a></strong>
+<strong><a href="https://jettnguyen.github.io/Nexel/">🧩<br>Nexel</a></strong>
 <br/>
-<small>An HTML personal website that showcases my music production discography and recent releases</small>
+<small>A React web puzzle game to strategically place shapes. Includes a solver with different approaches.</small>
 </td>
 <td width="25%" align="center" valign="top">
 <strong><a href="https://jettnguyen.github.io/GridironGuru/">🏈<br>Gridiron Guru</a></strong>
