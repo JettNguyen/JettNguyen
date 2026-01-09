@@ -1,5 +1,6 @@
 # Jett Nguyen
-## Computer Science Major & Public Relations Minor Student at the University of Florida 2026 🐊 ⌨️
+## Computer Science Major & Public Relations Minor Student @ University of Florida 2026 🐊 ⌨️
+## Prev Software Engineer Intern @ MARA
 
 <div align="center">
   <img src="./assets/avatar.png" width="135" alt="avatar" style="display: inline-block; margin-right: 20px;"/>
