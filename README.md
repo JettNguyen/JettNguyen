@@ -36,7 +36,7 @@
     </ul>
   </div>
   <div style="display: inline-block; width: 45%; vertical-align: top;">
-    <em>I build thoughtful, user-centered interfaces that blend clean engineering with aesthetic-conscious visuals. My background in PR and music gives me a strong eye for storytelling, while coursework and internships have sharpened my frontend engineering skills. I lead projects end-to-end: map user journeys, prototype layouts, and ship accessible React/Next.js software that emphasize accessibility and UX.</em>
+    <em>I build thoughtful, user-centered interfaces that blend clean engineering with aesthetic-conscious visuals. My background in PR and music gives me a strong eye for storytelling, while coursework and internships have sharpened my frontend engineering skills. I lead projects end-to-end: map user journeys, prototype layouts, and ship accessible software that emphasizes accessibility and UX.</em>
   </div>
 </div>
 
