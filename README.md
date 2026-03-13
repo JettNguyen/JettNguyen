@@ -89,22 +89,22 @@
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://nightlink.dev">🌙<br> NightLink</a></strong>
+<strong><a href="https://nightlink.dev"><img src="./assets/nightlink.png" width="64" height="64" alt="NightLink" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br> NightLink</a></strong>
 <br/>
 <small>A web social media app that allows users to share their dreams with others and get analysis from AI</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://jettnguyen.github.io/Nexel/">🧩<br>Nexel</a></strong>
+<strong><a href="https://jettnguyen.github.io/Nexel/"><img src="./assets/Nexel.png" width="64" height="64" alt="Nexel" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Nexel</a></strong>
 <br/>
 <small>A React web puzzle game to strategically place shapes. Includes a solver with different approaches.</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://jettnguyen.github.io/GridironGuru/">🏈<br>Gridiron Guru</a></strong>
+<strong><a href="https://jettnguyen.github.io/GridironGuru/"><img src="./assets/gridironguru.png" width="64" height="64" alt="Gridiron Guru" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Gridiron Guru</a></strong>
 <br/>
 <small>A C++ program to statistically predict the best play in a football game based on historical data</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://github.com/JettNguyen/Splitsy">💰<br>Splitsy</a></strong>
+<strong><a href="https://github.com/JettNguyen/Splitsy"><img src="./assets/splitsy.jpg" width="64" height="64" alt="Splitsy" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Splitsy</a></strong>
 <br/>
 <small>A bill splitting application that helps people easily divide expenses and track who owes what</small>
 </td>
