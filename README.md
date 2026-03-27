@@ -77,6 +77,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   <br/><br/>
   <strong>What I'm Learning</strong><br/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-5067B5?logo=php&logoColor=white&style=for-the-badge">
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge" />
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black&style=for-the-badge" />
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" />
