@@ -140,19 +140,19 @@
 <small>A web social media app that allows users to share their dreams with others and get analysis from AI</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://jettnguyen.github.io/Nexel/"><img src="./assets/Nexel.png" width="64" height="64" alt="Nexel" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Nexel</a></strong>
+<strong><a href="https://studioflow-music.vercel.app/"><img src="./assets/studioflow.png" width="64" height="64" alt="Studioflow" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Studioflow</a></strong>
 <br/>
-<small>A React web puzzle game to strategically place shapes. Includes a solver with different approaches.</small>
+<small>A React web app for creatives to manage music, assets, lyrics, and social media content</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://jettnguyen.github.io/GridironGuru/"><img src="./assets/gridironguru.png" width="64" height="64" alt="Gridiron Guru" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Gridiron Guru</a></strong>
+<strong><a href="https://jettnguyen.github.io/Sideline/"><img src="./assets/sideline.png" width="64" height="64" alt="Sideline" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Sideline</a></strong>
 <br/>
-<small>A C++ program to statistically predict the best play in a football game based on historical data</small>
+<small>A mobile-first web application for easy youth soccer club video management and sharing</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://github.com/JettNguyen/Splitsy"><img src="./assets/splitsy.jpg" width="64" height="64" alt="Splitsy" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Splitsy</a></strong>
+<strong><a href="https://jettnguyen.github.io/Stackd"><img src="./assets/stackd.png" width="64" height="64" alt="Stackd" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Stackd</a></strong>
 <br/>
-<small>A bill splitting application that helps people easily divide expenses and track who owes what</small>
+<small>A mobile-first web appmade for UF students to create, store, study, and share flashcards</small>
 </td>
 </tr>
 </table>
