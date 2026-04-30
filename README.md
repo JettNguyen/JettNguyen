@@ -140,19 +140,19 @@
 <small>A web social media app that allows users to share their dreams with others and get analysis from AI</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://studioflow-music.vercel.app/"><img src="./assets/studioflow.png" width="64" height="64" alt="Studioflow" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Studioflow</a></strong>
+<strong><a href="https://tempify.me/"><img src="./assets/tempify.png" width="64" height="64" alt="Tempify" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Tempify</a></strong>
 <br/>
-<small>A React web app for creatives to manage music, assets, lyrics, and social media content</small>
+<small>A responsive web game suite for daily music trivia with an optional premium plan to access exclusive features</small>
 </td>
 <td width="25%" align="center" valign="top">
 <strong><a href="https://jettnguyen.github.io/Sideline/"><img src="./assets/sideline.png" width="64" height="64" alt="Sideline" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Sideline</a></strong>
 <br/>
-<small>A mobile-first web application for easy youth soccer club video management and sharing</small>
+<small>A mobile-first web application for parents and coaches to easily manage and share youth soccer videos and clips</small>
 </td>
 <td width="25%" align="center" valign="top">
 <strong><a href="https://jettnguyen.github.io/Stackd"><img src="./assets/stackd.png" width="64" height="64" alt="Stackd" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Stackd</a></strong>
 <br/>
-<small>A mobile-first web appmade for UF students to create, store, study, and share flashcards</small>
+<small>A mobile-first web app made for UF students to create, AI generate, store, study, and share flashcards</small>
 </td>
 </tr>
 </table>
