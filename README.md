@@ -1,5 +1,5 @@
 # Jett Nguyen
-## Computer Science Major & Public Relations Minor Student @ University of Florida 2026 🐊 ⌨️ | Prev SWE Intern @ MARA
+## B.S. Computer Science Major & Public Relations Minor @ University of Florida 2026 🐊 ⌨️ | Prev SWE Intern @ MARA
 
 <div align="center">
   <img src="./assets/avatar.png" width="135" alt="avatar" style="display: inline-block; margin-right: 20px;"/>
@@ -29,7 +29,7 @@
     <strong>Quick Facts:</strong>
     <ul>
       <li>📍 Gainesville, FL / Saint Petersburg, FL</li>
-      <li>💻 CS Major (Herbert Wertheim College of Engineering)</li>
+      <li>💻 B.S. CS (Herbert Wertheim College of Engineering)</li>
       <li>📢 PR Minor (College of Journalism and Communications)</li>
       <li>🎹 Music Producer (Rap, R&B, Electronic, Indie, & more)</li>
       <li>🛍️ eCommerce Seller (Vintage Clothing & Collectibles)</li>
