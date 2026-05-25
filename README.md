@@ -12,9 +12,18 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="250" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JettNguyen&theme=github_dark" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="250" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JettNguyen&theme=github_dark" alt="Stats summary" width="250"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JettNguyen&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
