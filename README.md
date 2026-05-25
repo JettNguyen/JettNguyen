@@ -1,6 +1,10 @@
 # Jett Nguyen
 ## B.S. Computer Science Major & Public Relations Minor @ University of Florida 2026 🐊 ⌨️ | Prev SWE Intern @ MARA
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=CS+%40+University+of+Florida+%F0%9F%90%8A;SWE+Intern+%40+MARA;Frontend+Engineer;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <img src="./assets/avatar.png" width="135" alt="avatar" style="display: inline-block; margin-right: 20px;"/>
   <div style="display: inline-block; vertical-align: middle; text-align: left;">
@@ -24,6 +28,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JettNguyen&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JettNguyen&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Jett2Fly&loved=1&count=5" alt="Last.fm recent tracks" width="400" />
 </p>
 
 <p align="center">
