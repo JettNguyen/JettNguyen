@@ -1,7 +1,7 @@
 # Jett Nguyen
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=B.S.+CS+%40+University+of+Florida+%F0%9F%90%8A;Prev+SWE+Intern+%40+MARA+%F0%9F%92%BC;Frontend+Engineer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=B.S.+CS+%40+University+of+Florida+%F0%9F%90%8A;Prev+SWE+Intern+%40+MARA+%F0%9F%92%BC;Frontend+Engineer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces+%F0%9F%8E%A8" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -18,19 +18,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JettNguyen&theme=github_dark" alt="Profile summary" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="275" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="275" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JettNguyen&theme=github_dark" alt="Stats summary" width="275"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="275" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JettNguyen&theme=github_dark" alt="Stats summary" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JettNguyen&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JettNguyen&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
