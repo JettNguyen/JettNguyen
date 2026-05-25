@@ -24,14 +24,6 @@
       <img src="https://streak-stats.demolab.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JettNguyen&theme=github_dark" alt="Stats summary" width="100%" />
-    </td>
-    <td width="50%" align="center">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="100%" />
     </td>
   </tr>
@@ -41,9 +33,30 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JettNguyen&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Jett2Fly&loved=1&count=5" alt="Last.fm recent tracks" width="400" />
-</p>
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <strong>Music & Interests</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="center">
+      <img src="https://lastfm-recently-played.vercel.app/api?user=Jett2Fly&loved=1&count=5" alt="Last.fm recent tracks" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./assets/tees/dragon-front.png"><img src="./assets/tees/dragon-front.png" alt="Dragon tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
+      <a href="./assets/tees/intel-front.png"><img src="./assets/tees/intel-front.png" alt="Intel tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
+      <a href="./assets/tees/metallica-front.png"><img src="./assets/tees/metallica-front.png" alt="Metallica tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a><br/>
+      <a href="./assets/tees/uf-front.png"><img src="./assets/tees/uf-front.png" alt="UF tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
+      <a href="./assets/tees/toy-front.png"><img src="./assets/tees/toy-front.png" alt="Toy Story tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
+      <a href="./assets/tees/audioslave-front.png"><img src="./assets/tees/audioslave-front.png" alt="Audioslave tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a><br/>
+      <a href="./assets/tees/buffy-front.png"><img src="./assets/tees/buffy-front.png" alt="Buffy tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
+      <a href="./assets/tees/code-front.png"><img src="./assets/tees/code-front.png" alt="Code tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
+      <a href="./assets/tees/led-front.png"><img src="./assets/tees/led-front.png" alt="Led Zeppelin tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/JettNguyen?tab=repositories"><img alt="Pinned repos" src="https://img.shields.io/badge/-Pinned%20repos-222?style=plastic"/></a>
