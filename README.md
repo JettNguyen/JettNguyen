@@ -1,8 +1,7 @@
 # Jett Nguyen
-## B.S. Computer Science Major & Public Relations Minor @ University of Florida 2026 🐊 ⌨️ | Prev SWE Intern @ MARA
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=CS+%40+University+of+Florida+%F0%9F%90%8A;SWE+Intern+%40+MARA;Frontend+Engineer;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=B.S.+CS+%40+University+of+Florida+%F0%9F%90%8A;Prev+SWE+Intern+%40+MARA+%F0%9F%92%BC;Frontend+Engineer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces+%F0%9F%8E%A8" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -20,10 +19,10 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="250" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="250" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JettNguyen&theme=github_dark" alt="Stats summary" width="250"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="250" />
+  <img src="https://streak-stats.demolab.com/?user=JettNguyen&theme=dark&hide_border=true" alt="Streak stats" width="275" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JettNguyen&show_icons=true&theme=dark&hide_border=true" alt="Jett's GitHub stats" width="275" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JettNguyen&theme=github_dark" alt="Stats summary" width="275"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JettNguyen&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="275" />
 </p>
 
 <p align="center">
