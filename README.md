@@ -1,14 +1,15 @@
 # Jett Nguyen
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=B.S.+CS+%40+University+of+Florida+%F0%9F%90%8A;Prev+SWE+Intern+%40+MARA+%F0%9F%92%BC;Frontend+Engineer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=B.S.+CS+%40+University+of+Florida+%F0%9F%90%8A;Prev+SWE+Intern+%40+MARA+%F0%9F%92%BC;Co-Founder+%40+NR+AI+Solutions+%F0%9F%A4%96;Frontend+Engineer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces+%F0%9F%8E%A8" alt="Typing SVG" />
 </p>
 
 <div align="center">
   <img src="./assets/avatar.png" width="135" alt="avatar" style="display: inline-block; margin-right: 20px;"/>
   <div style="display: inline-block; vertical-align: middle; text-align: left;">
     <a href="https://jettnguyen.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/-jettnguyen.github.io-000000?logo=github&logoColor=white&style=for-the-badge"/></a>
-    <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a><br/>
+    <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
+    <a href="https://nrsolveai.com/"><img alt="NR AI Solutions" src="https://img.shields.io/badge/-NRSolveAI.com-a47fd1?style=for-the-badge"/></a><br/>
     <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
     <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   </div>
@@ -28,10 +29,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JettNguyen&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 <table width="100%">
   <tr>
@@ -73,11 +70,12 @@
       <li>💻 B.S. CS (Herbert Wertheim College of Engineering)</li>
       <li>📢 PR Minor (College of Journalism and Communications)</li>
       <li>🎹 Music Producer (Rap, R&B, Electronic, Indie, & more)</li>
+      <li>🤖 Co-Founder, <a href="https://nrsolveai.com">N&R AI Solutions</a> (AI assistant guided setup & coaching)</li>
       <li>🛍️ eCommerce Seller (Vintage Clothing & Collectibles)</li>
     </ul>
   </div>
   <div style="display: inline-block; width: 45%; vertical-align: top;">
-    <em>I build thoughtful, user-centered interfaces that blend clean engineering with aesthetic-conscious visuals. My background in PR and music gives me a strong eye for storytelling, while coursework and internships have sharpened my frontend engineering skills. I lead projects end-to-end: map user journeys, prototype layouts, and ship accessible software that emphasizes accessibility and UX.</em>
+    <em>I build thoughtful, user-centered interfaces that blend clean engineering with aesthetic-conscious visuals. My background in PR and music gives me a strong eye for storytelling, while coursework, internships, and co-founding N&R AI Solutions have sharpened both my engineering skills and my ability to deliver real-world AI-driven products. I lead projects end-to-end: map user journeys, prototype layouts, and ship accessible software that emphasizes accessibility and UX.</em>
   </div>
 </div>
 
