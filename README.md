@@ -1,19 +1,26 @@
 # Jett Nguyen
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=B.S.+CS+%40+University+of+Florida+%F0%9F%90%8A;Prev+SWE+Intern+%40+MARA+%F0%9F%92%BC;Co-Founder+%40+NR+AI+Solutions+%F0%9F%A4%96;Frontend+Engineer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces+%F0%9F%8E%A8" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=B.S.+CS+%40+University+of+Florida+%F0%9F%90%8A;Prev+SWE+Intern+%40+MARA+%F0%9F%92%BC;Co-Founder+%40+Otian+AI+%F0%9F%A4%96;Frontend+Engineer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces+%F0%9F%8E%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2000&pause=1500&color=1F2328&center=true&vCenter=true&width=600&lines=B.S.+CS+%40+University+of+Florida+%F0%9F%90%8A;Prev+SWE+Intern+%40+MARA+%F0%9F%92%BC;Co-Founder+%40+Otian+AI+%F0%9F%A4%96;Frontend+Engineer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B9;Building+user-centered+interfaces+%F0%9F%8E%A8" alt="B.S. CS @ University of Florida; Prev SWE Intern @ MARA; Co-Founder @ Otian AI; Frontend Engineer; Music Producer; Building user-centered interfaces" />
+  </picture>
 </p>
 
-<div align="center">
-  <img src="./assets/avatar.png" width="135" alt="avatar" style="display: inline-block; margin-right: 20px;"/>
-  <div style="display: inline-block; vertical-align: middle; text-align: left;">
-    <a href="https://jettnguyen.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/-jettnguyen.github.io-000000?logo=github&logoColor=white&style=for-the-badge"/></a>
-    <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
-    <a href="https://nrsolveai.com/"><img alt="NR AI Solutions" src="https://img.shields.io/badge/-NRSolveAI.com-a47fd1?style=for-the-badge"/></a><br/>
-    <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-    <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td width="180" align="center" valign="middle">
+      <img src="./assets/avatar.png" width="135" alt="avatar"/>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://jettnguyen.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/-Personal_Site-000000?logo=github&logoColor=white&style=for-the-badge"/></a>
+      <a href="https://jett2fly.com/"><img alt="Website" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
+      <a href="https://otianai.com/"><img alt="Otian AI" src="https://img.shields.io/badge/-OtianAI.com-E08A5B?style=for-the-badge"/></a><br/>
+      <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+      <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JettNguyen&theme=github_dark" alt="Profile summary" />
@@ -41,15 +48,15 @@
       <img src="https://lastfm-recently-played.vercel.app/api?user=Jett2Fly&loved=1&count=5" alt="Last.fm recent tracks" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="./assets/tees/dragon-front.png"><img src="./assets/tees/dragon-front.png" alt="Dragon tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
-      <a href="./assets/tees/intel-front.png"><img src="./assets/tees/intel-front.png" alt="Intel tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
-      <a href="./assets/tees/metallica-front.png"><img src="./assets/tees/metallica-front.png" alt="Metallica tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a><br/>
-      <a href="./assets/tees/uf-front.png"><img src="./assets/tees/uf-front.png" alt="UF tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
-      <a href="./assets/tees/toy-front.png"><img src="./assets/tees/toy-front.png" alt="Toy Story tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
-      <a href="./assets/tees/audioslave-front.png"><img src="./assets/tees/audioslave-front.png" alt="Audioslave tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a><br/>
-      <a href="./assets/tees/buffy-front.png"><img src="./assets/tees/buffy-front.png" alt="Buffy tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
-      <a href="./assets/tees/code-front.png"><img src="./assets/tees/code-front.png" alt="Code tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
-      <a href="./assets/tees/led-front.png"><img src="./assets/tees/led-front.png" alt="Led Zeppelin tee" width="29%" style="border-radius: 10px; object-fit: cover; margin: 2px;" /></a>
+      <a href="./assets/tees/dragon-front.png"><img src="./assets/tees/dragon-front.png" alt="Dragon tee" width="29%" /></a>
+      <a href="./assets/tees/intel-front.png"><img src="./assets/tees/intel-front.png" alt="Intel tee" width="29%" /></a>
+      <a href="./assets/tees/metallica-front.png"><img src="./assets/tees/metallica-front.png" alt="Metallica tee" width="29%" /></a><br/>
+      <a href="./assets/tees/uf-front.png"><img src="./assets/tees/uf-front.png" alt="UF tee" width="29%" /></a>
+      <a href="./assets/tees/toy-front.png"><img src="./assets/tees/toy-front.png" alt="Toy Story tee" width="29%" /></a>
+      <a href="./assets/tees/audioslave-front.png"><img src="./assets/tees/audioslave-front.png" alt="Audioslave tee" width="29%" /></a><br/>
+      <a href="./assets/tees/buffy-front.png"><img src="./assets/tees/buffy-front.png" alt="Buffy tee" width="29%" /></a>
+      <a href="./assets/tees/code-front.png"><img src="./assets/tees/code-front.png" alt="Code tee" width="29%" /></a>
+      <a href="./assets/tees/led-front.png"><img src="./assets/tees/led-front.png" alt="Led Zeppelin tee" width="29%" /></a>
       <br/>
     </td>
   </tr>
@@ -62,22 +69,24 @@
 
 ### About Me 📝
 
-<div>
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin-right: 5%;">
-    <strong>Quick Facts:</strong>
-    <ul>
-      <li>📍 Gainesville, FL / Saint Petersburg, FL</li>
-      <li>💻 B.S. CS (Herbert Wertheim College of Engineering)</li>
-      <li>📢 PR Minor (College of Journalism and Communications)</li>
-      <li>🎹 Music Producer (Rap, R&B, Electronic, Indie, & more)</li>
-      <li>🤖 Co-Founder, <a href="https://nrsolveai.com">N&R AI Solutions</a> (AI assistant guided setup & coaching)</li>
-      <li>🛍️ eCommerce Seller (Vintage Clothing & Collectibles)</li>
-    </ul>
-  </div>
-  <div style="display: inline-block; width: 45%; vertical-align: top;">
-    <em>I build thoughtful, user-centered interfaces that blend clean engineering with aesthetic-conscious visuals. My background in PR and music gives me a strong eye for storytelling, while coursework, internships, and co-founding N&R AI Solutions have sharpened both my engineering skills and my ability to deliver real-world AI-driven products. I lead projects end-to-end: map user journeys, prototype layouts, and ship accessible software that emphasizes accessibility and UX.</em>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <strong>Quick Facts:</strong>
+      <ul>
+        <li>📍 Gainesville, FL / Saint Petersburg, FL</li>
+        <li>💻 B.S. CS (Herbert Wertheim College of Engineering)</li>
+        <li>📢 PR Minor (College of Journalism and Communications)</li>
+        <li>🎹 Music Producer (Rap, R&B, Electronic, Indie, & more)</li>
+        <li>🤖 Co-Founder, <a href="https://otianai.com">Otian AI</a> (Archie: a personal AI agent that runs on your own computer)</li>
+        <li>🛍️ eCommerce Seller (Vintage Clothing & Collectibles)</li>
+      </ul>
+    </td>
+    <td width="55%" valign="top">
+      <em>I build thoughtful, user-centered interfaces that blend clean engineering with aesthetic-conscious visuals. My background in PR and music gives me a strong eye for storytelling, while coursework, internships, and co-founding Otian AI have sharpened both my engineering skills and my ability to deliver real-world AI-driven products. I lead projects end-to-end: map user journeys, prototype layouts, and ship accessible software that emphasizes accessibility and UX.</em>
+    </td>
+  </tr>
+</table>
 
 ### Skills 🛠️
  
@@ -89,6 +98,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-5067B5?logo=php&logoColor=white&style=for-the-badge" />
@@ -174,22 +184,22 @@
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://nightlink.dev"><img src="./assets/nightlink.png" width="64" height="64" alt="NightLink" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br> NightLink</a></strong>
+<strong><a href="https://nightlink.dev"><img src="./assets/nightlink.png" width="64" height="64" alt="NightLink"/><br> NightLink</a></strong>
 <br/>
 <small>A web social media app that allows users to share their dreams with others and get analysis from AI</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://tempify.me/"><img src="./assets/tempify.png" width="64" height="64" alt="Tempify" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Tempify</a></strong>
+<strong><a href="https://tempify.me/"><img src="./assets/tempify.png" width="64" height="64" alt="Tempify"/><br>Tempify</a></strong>
 <br/>
 <small>A responsive web game suite for daily music trivia with an optional premium plan to access exclusive features</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://jettnguyen.github.io/Sideline/"><img src="./assets/sideline.png" width="64" height="64" alt="Sideline" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Sideline</a></strong>
+<strong><a href="https://jettnguyen.github.io/Sideline/"><img src="./assets/sideline.png" width="64" height="64" alt="Sideline"/><br>Sideline</a></strong>
 <br/>
 <small>A mobile-first web application for parents and coaches to easily manage and share youth soccer videos and clips</small>
 </td>
 <td width="25%" align="center" valign="top">
-<strong><a href="https://jettnguyen.github.io/Stackd"><img src="./assets/stackd.png" width="64" height="64" alt="Stackd" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); object-fit: cover;"/><br>Stackd</a></strong>
+<strong><a href="https://jettnguyen.github.io/Stackd"><img src="./assets/stackd.png" width="64" height="64" alt="Stackd"/><br>Stackd</a></strong>
 <br/>
 <small>A mobile-first web app made for UF students to create, AI generate, store, study, and share flashcards</small>
 </td>
@@ -197,6 +207,7 @@
 </table>
 
 ### Connect With Me 📲
-💼 **[LinkedIn](https://www.linkedin.com/in/jett-nguyen/)**
-📱 **[Instagram](https://www.instagram.com/7jettster7/)**
+✉️ **[jettuf26@gmail.com](mailto:jettuf26@gmail.com)**<br/>
+💼 **[LinkedIn](https://www.linkedin.com/in/jett-nguyen/)**<br/>
+📱 **[Instagram](https://www.instagram.com/7jettster7/)**<br/>
 🔗 **[Jett2Fly.com](https://jett2fly.com/)**
