@@ -32,7 +32,7 @@
 
 <table width="100%">
   <tr>
-    <td width="45%" valign="top">
+    <td width="53%" valign="top">
       <strong>Quick Facts:</strong>
       <ul>
         <li>🔭 Open to AI engineering roles</li>
@@ -46,7 +46,7 @@
         <li>📍 Gainesville, FL / Saint Petersburg, FL</li>
       </ul>
     </td>
-    <td width="55%" valign="top">
+    <td width="47%" valign="top">
       <em>I graduated from UF in May 2026 with a B.S. in Computer Science and a minor in Public Relations, and I'm looking for work where those two overlap: building AI agents, and being able to explain why people can trust them. At Otian AI, which I co-founded with Jack Raney, I lead engineering on Archie, an AI agent that runs on your own computer. It can draft an email or a calendar change, but it can't send or make it until a person says yes, and the code makes sure of that. Outside of Otian, I build my own apps, run agents for my own work, and produce music.</em>
     </td>
   </tr>
@@ -256,7 +256,10 @@
 
 <p align="center">
   <b>Design & UX</b><br/><br/>
-  <code>User&nbsp;Research</code> <code>Wireframing</code> <code>Design&nbsp;Systems</code> <code>Design&nbsp;Tokens</code> <code>Accessibility&nbsp;(WCAG&nbsp;2.1)</code> <code>Usability&nbsp;Testing</code> <code>Accessibility&nbsp;Audits</code> <code>Agile&nbsp;Collaboration</code>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills/design-dark.svg" />
+    <img src="./assets/skills/design-light.svg" alt="User Research, Design Systems, Accessibility Audits, Agile Collaboration, Wireframing, Design Tokens, Accessibility (WCAG 2.1), Usability Testing" title="User Research, Design Systems, Accessibility Audits, Agile Collaboration, Wireframing, Design Tokens, Accessibility (WCAG 2.1), Usability Testing" />
+  </picture>
 </p>
 
 <details>
