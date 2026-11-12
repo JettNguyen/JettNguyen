@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jett Nguyen</title>
+  <desc id="desc">I build agents you can trust. Co-founder and CTO at Otian AI, UF Computer Science and PR 2026, music producer.</desc>
+  <style>
+    .name { font: 800 78px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; letter-spacing: -2px; }
+    .tag { font: 500 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; letter-spacing: -0.3px; fill: #3d444d; }
+    .info { font: 500 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; letter-spacing: 0.2px; fill: #656d76; }
+    .sep { fill: #C2602F; }
+    .edges line { stroke: #E08A5B; stroke-opacity: 0.40; stroke-width: 1.4; }
+    .tw { fill: #C2602F; }
+    .hub { fill: #C2602F; }
+    .ring { fill: none; stroke: #C2602F; stroke-width: 2; opacity: 0; }
+    .packets circle { fill: #C2602F; }
+    .w { fill: none; stroke: #E08A5B; stroke-width: 1.6; }
+    @media (prefers-reduced-motion: no-preference) {
+      .w1 { animation: drift 16s linear infinite; }
+      .w2 { animation: drift 24s linear infinite reverse; }
+      .w3 { animation: drift 34s linear infinite; }
+      .ring { transform-box: fill-box; transform-origin: center; animation: ping 3.6s ease-out infinite; }
+      .ring.r2 { animation-delay: 1.8s; }
+      .tw { animation: twinkle 4s ease-in-out infinite; }
+      .t1 { animation-delay: 1.3s; }
+      .t2 { animation-delay: 2.6s; }
+    }
+    @media (prefers-reduced-motion: reduce) { .packets { display: none; } }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(400px); } }
+    @keyframes ping { 0% { transform: scale(0.4); opacity: 0.7; } 100% { transform: scale(2.4); opacity: 0; } }
+    @keyframes twinkle { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf5"/>
+      <stop offset="1" stop-color="#fbe9db"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#E08A5B" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#E08A5B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C36A3D" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C36A3D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f2328"/>
+      <stop offset="1" stop-color="#9a4a22"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#E08A5B" fill-opacity="0.40"/>
+    </pattern>
+    <radialGradient id="fade" cx="0.62" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="dotMask"><rect x="700" width="500" height="300" fill="url(#fade)"/></mask>
+    <linearGradient id="waveFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.4"/>
+    </linearGradient>
+    <mask id="waveMask"><rect width="1200" height="300" fill="url(#waveFade)"/></mask>
+    <clipPath id="card"><rect width="1200" height="300" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle cx="1010" cy="60" r="360" fill="url(#glow)"/>
+    <circle cx="110" cy="340" r="280" fill="url(#glow2)"/>
+    <rect x="700" width="500" height="300" fill="url(#dots)" mask="url(#dotMask)"/>
+    <g mask="url(#waveMask)">
+      <path class="w w1" stroke-opacity="0.34" d="M-400 266 q100 -26 200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0"/>
+      <path class="w w2" stroke-opacity="0.20" d="M-400 280 q100 -18 200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0"/>
+      <path class="w w3" stroke-opacity="0.12" d="M-400 252 q100 -34 200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0 t200 0"/>
+    </g>
+  </g>
+  <g class="edges">
+    <line x1="1000" y1="150" x2="870" y2="92"/>
+    <line x1="1000" y1="150" x2="905" y2="212"/>
+    <line x1="1000" y1="150" x2="1062" y2="70"/>
+    <line x1="1000" y1="150" x2="1110" y2="176"/>
+    <line x1="1000" y1="150" x2="1018" y2="246"/>
+    <line x1="1000" y1="150" x2="948" y2="140"/>
+    <line x1="870" y1="92" x2="948" y2="140"/>
+    <line x1="1062" y1="70" x2="1110" y2="176"/>
+    <line x1="905" y1="212" x2="1018" y2="246"/>
+    <line x1="1110" y1="176" x2="1018" y2="246"/>
+  </g>
+  <circle class="ring" cx="1000" cy="150" r="22"/>
+  <circle class="ring r2" cx="1000" cy="150" r="22"/>
+    <circle class="tw t0" cx="870" cy="92" r="6.5"/>
+    <circle class="tw t1" cx="905" cy="212" r="5"/>
+    <circle class="tw t2" cx="1062" cy="70" r="6.5"/>
+    <circle class="tw t0" cx="1110" cy="176" r="5"/>
+    <circle class="tw t1" cx="1018" cy="246" r="6.5"/>
+    <circle class="tw t2" cx="948" cy="140" r="5"/>
+  <g class="packets">
+    <circle r="3.6" opacity="0"><animateMotion dur="3.6s" begin="0s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.55;1" calcMode="linear" path="M870 92 L1000 150"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.5;0.56;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle r="3.6" opacity="0"><animateMotion dur="3.6s" begin="1.2s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.55;1" calcMode="linear" path="M1110 176 L1000 150"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.5;0.56;1" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle r="3.6" opacity="0"><animateMotion dur="3.6s" begin="2.4s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.55;1" calcMode="linear" path="M1018 246 L1000 150"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.5;0.56;1" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+  <circle class="hub" cx="1000" cy="150" r="11"/>
+  <text class="name" x="70" y="128" fill="url(#nameFill)">Jett Nguyen</text>
+  <rect x="74" y="150" width="52" height="5" rx="2.5" fill="#C2602F"/>
+  <text class="tag" x="72" y="203">I build agents you can trust.</text>
+  <text class="info" x="73" y="246">Co-founder &amp; CTO, Otian AI<tspan class="sep" dx="12">&#x2022;</tspan><tspan dx="12">UF Computer Science + PR &#8217;26</tspan><tspan class="sep" dx="12">&#x2022;</tspan><tspan dx="12">Music producer</tspan></text>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="23.5" fill="none" stroke="#ecd5c3"/>
+</svg>

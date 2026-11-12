@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="">
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .f1 { animation: drift 22s linear infinite; }
+      .f2 { animation: drift 30s linear infinite reverse; }
+      .f3 { animation: drift 40s linear infinite; }
+    }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(600px); } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F0AB80"/>
+      <stop offset="0.5" stop-color="#E08A5B"/>
+      <stop offset="1" stop-color="#C36A3D"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1200" height="120" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)" fill="url(#g)">
+    <path class="f3" fill-opacity="0.25" d="M-600 52 q150 -30 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H-600 Z"/>
+    <path class="f2" fill-opacity="0.45" d="M-600 72 q150 -22 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H-600 Z"/>
+    <path class="f1" fill-opacity="0.9" d="M-600 92 q150 -16 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H-600 Z"/>
+  </g>
+</svg>
