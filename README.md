@@ -19,9 +19,9 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://jettnguyen.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/-Personal_Site-000000?logo=github&logoColor=white&style=for-the-badge"/></a>
-      <a href="https://otianai.com/"><img alt="Otian AI" src="https://img.shields.io/badge/-OtianAI.com-E08A5B?style=for-the-badge"/></a>
-      <a href="https://jett2fly.com/"><img alt="Jett2Fly.com" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge"/></a>
-      <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+      <a href="https://otianai.com/"><img alt="Otian AI" src="https://img.shields.io/badge/-OtianAI.com-E08A5B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjQwIDggMTY4IDIzMiIgZmlsbD0iI2ZmZiI%2BPGVsbGlwc2UgY3g9IjEyMiIgY3k9IjE5NyIgcng9IjcyIiByeT0iMzUiIHRyYW5zZm9ybT0icm90YXRlKC00IDEyMiAxOTcpIi8%2BPGVsbGlwc2UgY3g9IjExMiIgY3k9IjEyMSIgcng9IjU2IiByeT0iMzMiIHRyYW5zZm9ybT0icm90YXRlKDUgMTEyIDEyMSkiLz48ZWxsaXBzZSBjeD0iMTM2IiBjeT0iNDciIHJ4PSIzNCIgcnk9IjMxIiB0cmFuc2Zvcm09InJvdGF0ZSgtNyAxMzYgNDcpIi8%2BPC9zdmc%2B"/></a>
+      <a href="https://jett2fly.com/"><img alt="Jett2Fly.com" src="https://img.shields.io/badge/-Jett2Fly.com-1DA1F2?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAGyElEQVR42u2cW6hVRRzGf2vvdY7XvGSiFpVaEt3UyG5SWJlERGlYkqUSRQ%2BRPQSCSkEhFFQUURBEvogFQdhDSkVGCZlFmkVJF7KyvJWlnjRTzzlrTw%2FzDfxZrn3c%2ByjuvXUGDnvvtWatNfOt%2F%2BWbmW9O4pwjluqlFCGIAEWAIkARoAhQBKgJS5s%2BlwIO2A4M1bGk1pukDe5EWY11QFbQ%2BN6StATokgGcfyzG0GiAsoJjrobO11p3ADDK9LVPjeCGZ1QaAVCwmBSYAYwEfgbe17l2nesCDtcJYLh3%2BOwPDDPW2rcG93LmGUkjARoBvAYMAdYB7wHnASsUK9YBd8s1Kub6dsWXLqCzwKIS41L9gUHGgrpVp1QAdFkWPUsvbg8wv5Eu1k8NzoBD6vQIYLzOj1GjywKjrPovArcA%2B4E5wDcFFlDSff%2FRdQGwe4E3ga067gz4AaBJwGwdG9noGJSqYeOBT4AzBEIZOKgG54P3GGC0vl8M%2FKZzDwNT5K4PAZOBa811ZWAu8IWuyce0TN9DGyrAzEYClJjMcroahhqWKDbdA3QAHwsw5DLhrY8FvpI1jtB1NwBLgPuAB9XZVK45RlZzJjBOVrjRtGkoMF31HZClDeYpqQGrkkvHFwBvqIObgMeBb3U81BkGnGPcqEv3fVfuVbEZSUAeAB4QiPuAV4C9wLOKO202LqUNtJ4kF2CLeEpFIE4EVgEvKHWHMjcXnNv0fWIPlOZpWVCIg%2FOAf%2BViAw0VSACSEzhhVjKf3cBVwOcF2YcqQNVD9FyNjLmitrRVq1vqxVu315bqoO0V06DbgVeNWyW9HBK5GtuaJ6fWndtVNysirmkNjXJ58pRLjxhe0ZM5niVe0iEXmFCFSdfrqr0Z3tR8PDUPcQVv3F4cInunfofguEd%2F1TpQ1r1WCZi1wJZcAG3aYmNQYkAqKZANAHYCU4EnROgW6M2vVb2VwGKd%2B8VYXiJ3CuU74EKTdluipCbyd5vvFwEfKY0uFvOcYLjHNhNsbwVu0xDhzpzbpOIlfUz2KbfSnEkKfKqOzjYMc6AZ5E2SdYQg%2B5gAy8epm4DLxCkWaYw1FrjiOMSNhrpYcKvp6sy5mkO5Wp35U4RqXA3peJ%2BssF%2FB6LglJ%2BcS51xIez8Al9SYro9GETIDSkvPWloLslwlMbHC1eEarhXdqFaAKsRJ%2FB4ZagQnLvtEgCJAEaAIUAQoAhQBiiUCFAGKAEWAmgagLDdBHwtHigcwi%2FfRqnIWtAGv3ytX0c2c0iVxzpXxy8B34Oekp5hZxSSnuEhORYDs78HA2cD9wKN4CVxbgdsF0WWpB9HBSQFo4pxLTOwJC32jgGXANP3%2BGhiOXz52dXS85eNa3oISI6CciF8UPIjX0DwJLFSnO4AP8ctDEwRa2VjNRvziY9%2BTzcWKlqFDuRQvV%2BkvcKbhhUhLC2QqMwT0ZLxM7madczkwWyLNU2X5xsaXTJnuL%2FzC4h%2B6dguwXK55DX5xMYgn1%2BCXo%2B8SQNSx7OyMKyfNaEHVrGqU3KaDIxUdLwGP6Pt1wGcCpL%2FiVwUv6x0J3IgXMlSMpaatZEHV3uqOAh7VJqv5Xpwqwy9Xh9XVDv0BPKXPtxSjygXPSPDiyp14UeXwOhNDwyyoSFRVBLjLKTysm6SymiV4faHDiyc68YrW4Naz8MLytxXrsqO4Z29XdLuPFg%2BPp0YxqYOFt%2BPlMCVgt%2FjXr2Y3zlS8%2FGY1cH1uKdx2LjMSuqYfzdcTVDvxMpnd6ng%2FuVXo%2BCHdZ3BBGAgvYSvwu%2BodUAKpZYNLRcDuB57Hi76oNmA%2F3gTO1WhFlpxW1Lm%2FdW4zXg8Nfi%2FHckNgnYltz6neAeAD%2FGYYatA9loykcAHwY0%2FANorhOiMEDVMuewXENr3dVADNB%2F7LEdlEVGOOgv28KgnHFTxzm2LbCiWYn3Ji9m4rHWymIcAQdXKI6VBZMWaPUdLvktV0ieVvxQvB1xUE6kMaT1pZz3pgppJEl4hup9mAl1qwm4F7hLf8slj3ppw7HRZAo8Xkp%2BvNd5jgnYndd5lYGDTQe8XFtuM3vGw22TJsj2rXM9crqw5VVm1rBoBCcFxW5fhBY00ldThfzxlBKsAzwDv4XURzgcvx8sDVBc%2Ffq7qD8FsdVupZM5sFIMwwpGSyDEYBv0ZAbTDWkeUscJeAAXhdlrgOuBK%2Fk2iHQMxyQvjtskpLfE8LrtpMAOW3AtgAu7CHva4WoEW5BNSueLVDmTI7SpZ1ctOMZh7%2FHANRTXP7MQ4DX8r6dvRmS0PSQv8eJzkB8%2BXhGYPlegOS%2BP%2BD4sJhBCgCFAGKAEWAIkCnaPkfKsjtSNVjiewAAAAASUVORK5CYII%3D"/></a>
+      <a href="https://www.linkedin.com/in/jett-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B"/></a>
       <a href="https://www.instagram.com/7jettster7/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
       <a href="https://github.com/JettNguyen?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/JettNguyen?label=Followers&logo=github&logoColor=white&color=24292F&style=for-the-badge"/></a>
     </td>
@@ -223,10 +223,18 @@
 </p>
 
 <p align="center">
-  <b>AI & Agents</b><br/><br/>
+  <b>AI Models</b><br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills/ai-dark.svg" />
-    <img src="./assets/skills/ai-light.svg" alt="Claude, OpenAI, Gemini, Ollama, GitHub Copilot, Cursor" title="Claude, OpenAI, Gemini, Ollama, GitHub Copilot, Cursor" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills/ai-models-dark.svg" />
+    <img src="./assets/skills/ai-models-light.svg" alt="Claude, OpenAI (ChatGPT, Codex, Whisper, API), Gemini (API and CLI), Mistral AI, DeepSeek, Ollama, LM Studio" title="Claude, OpenAI (ChatGPT, Codex, Whisper, API), Gemini (API and CLI), Mistral AI, DeepSeek, Ollama, LM Studio" />
+  </picture>
+</p>
+
+<p align="center">
+  <b>Agents & AI Coding</b><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills/ai-agents-dark.svg" />
+    <img src="./assets/skills/ai-agents-light.svg" alt="Claude Code, OpenClaw, Model Context Protocol (MCP), GitHub Copilot, Cursor, Cline" title="Claude Code, OpenClaw, Model Context Protocol (MCP), GitHub Copilot, Cursor, Cline" />
   </picture>
 </p>
 
