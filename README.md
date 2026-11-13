@@ -103,8 +103,8 @@
 </td>
 <td width="50%" align="center" valign="top">
 <br/>
-<a href="https://nightlink.dev/"><img src="./assets/projects/nightlink.png" width="72" alt="NightLink"/></a>
-<h3><a href="https://nightlink.dev/">NightLink</a></h3>
+<a href="https://nightlink.dev/"><img src="./assets/projects/nightlink.png" width="72" alt="Nightlink"/></a>
+<h3><a href="https://nightlink.dev/">Nightlink</a></h3>
 <sub><b>Solo</b> · iPhone & web</sub>
 <p>A dream journal and social network. Log a dream by voice or text, get an AI title and summary, and choose who gets to see each one. <a href="https://jettnguyen.github.io/#project/nightlink">Read&nbsp;more&nbsp;→</a></p>
 <picture>
